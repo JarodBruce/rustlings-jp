@@ -3,7 +3,7 @@ fn main() {
     println!("Spell a number: {}", number);
 
     // TODO: 変数numberは残したままで
-    // printlinの行で適切な値が表示されるように変更してください。
+    // printlnの行で適切な値が表示されるように変更してください。
     number = 3;
     println!("Number plus two is: {}", number + 2);
 }
